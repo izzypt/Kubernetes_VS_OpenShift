@@ -1,3 +1,21 @@
+# OpenShift
+
+OpenShift is RedHat's open source containar app platform for developing enterprise applications.
+
+OpenShift is RedHat's SoftwareAsAService (SaaS) offering. 
+
+OpenShift has 4 different flavours:
+
+- Origin
+  - Origin is based on top of Docker containers and the kubernetes cluster manager, with added developer and operational centric tools that enable reapid app development.
+- Online
+- Dedicated
+- Enterprise
+
+- ![image](https://github.com/user-attachments/assets/074c4333-e7e4-4f5f-a845-5c9066ba0517)
+
+
+
 # Kubernetes_VS_OpenShift
 
 Adapting a Kubernetes setup to OpenShift mainly involves adjusting the manifests to account for the differences in how OpenShift operates compared to vanilla Kubernetes. While OpenShift is built on top of Kubernetes, it adds several features and imposes security constraints that require changes in resource definitions.
