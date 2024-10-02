@@ -21,6 +21,8 @@ OpenShift has 4 different flavours:
 
 # Kubernetes_VS_OpenShift
 
+- K8's is open source project and OpenShift is an enterprise opensource product.
+
 Adapting a Kubernetes setup to OpenShift mainly involves adjusting the manifests to account for the differences in how OpenShift operates compared to vanilla Kubernetes. While OpenShift is built on top of Kubernetes, it adds several features and imposes security constraints that require changes in resource definitions.
 
 Here are the key differences in terms of manifests and their adaptation:
