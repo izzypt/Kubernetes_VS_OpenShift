@@ -87,7 +87,7 @@ OpenShift and Kubernetes are closely related, but there are some key differences
 - **BuildConfigs (Optional):** Leverage OpenShift’s build pipelines for integrated image builds.
 - **Annotations:** Add OpenShift-specific annotations if needed.
 
-Would you like assistance with making these adjustments for your project? I can help with specific YAML configurations or adjustments.
+----------------------------------------------------------------------------------------------------
 
 - K8's is open source project and OpenShift is an enterprise opensource product.
 
