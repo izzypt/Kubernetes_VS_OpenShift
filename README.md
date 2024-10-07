@@ -17,6 +17,9 @@ OpenShift has 4 different flavours:
 
 - ![image](https://github.com/user-attachments/assets/074c4333-e7e4-4f5f-a845-5c9066ba0517)
 
+### ROSA - Red Hat OpenShift Service on AWS
+
+![image](https://github.com/user-attachments/assets/bcf2e775-f871-4846-a5ea-78ec5ae34650)
 
 
 # Kubernetes_VS_OpenShift
